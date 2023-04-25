@@ -1,0 +1,421 @@
+.nav{
+background: #FFFFFF;
+box-shadow: 0px 4px 15px rgba(49, 60, 72, 0.05);
+}
+.tan {
+background: none;
+/* form */
+box-shadow: 2px 2px 5px rgba(20, 29, 61, 0.15), -2px -2px 5px rgba(20, 29, 61, 0.15);
+border-radius: 30px;
+}
+.p1{
+   
+
+    font-size: 36px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    line-height: 43px;
+
+    font-weight: 400;
+    color: #0D1C41;
+}
+.ggg111{
+    margin: 8%;
+}
+
+.p2{
+    
+    
+   font-family: 'SF Pro Display';
+   font-style: normal;
+    font-weight: 400;
+   font-size: 14px;
+   line-height: 17px;
+  
+  /* text/text 50 */
+  
+   color: #939CA6;
+  }
+  .but{
+    border: 1px solid #4A607A;
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+margin-top: 28%;
+margin-left: 10%;
+/* identical to box height */
+
+width: 265px;
+height: 59px;
+text-transform: uppercase;
+color: #000000;
+}
+  .p3{ 
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+    text-align: center;
+    color: #000000;
+    }
+    
+    .i{
+        margin-left: 10%;
+    }
+    .p4{
+       
+        font-family: 'SF Pro Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 48px;
+        line-height: 57px;
+        text-align: center;
+        
+        color: #000000;
+        } 
+    .m{
+        margin-top: 5%;
+        margin-left: 12%; 
+    }
+    .p5{
+           
+        margin-top: 15%;
+        margin-left: -5%; 
+
+        font-family: 'SF Pro Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 76px;
+        
+        color: #000000;
+        }
+
+        .p6{
+           
+            margin-left: -5%;  
+        
+        font-family: 'SF Pro Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 29px;
+        
+        color: #0D1C41;
+        }
+        .d{
+            margin-top: 15%;
+            margin-left: 5%;   
+        }
+        
+        .p7{
+            margin-top: -5%;
+            margin-left: 20%;
+            
+            font-family: 'SF Pro Display';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 29.66px;
+            line-height: 35px;
+            display: flex;
+            align-items: center;
+            text-align: center;
+            letter-spacing: -0.28px;
+            color: #000000;
+        }
+        
+        .p8{
+           
+            margin-top: 1%;
+            margin-left: 20%;
+        font-family: 'SF Pro Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 29px;
+        
+        color: #0D1C41;
+        }
+        .u{margin-left: 5%}
+       
+        .p9{
+            margin-top: 20%;
+        
+        font-family: 'SF Pro Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 76px;
+        
+        color: #000000;
+        }
+        .p10{
+           
+        
+        font-family: 'SF Pro Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 29px;
+        
+        color: #0D1C41;
+        }
+        .p11{
+            
+        font-family: 'SF Pro Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 48px;
+        line-height: 57px;
+        
+        }
+        .rec{
+
+        background: #4A607A;
+        /* неактивные карточки */
+        
+        box-shadow: 0px 2px 18px rgba(41, 41, 41, 0.1);
+        border-radius: 10px;
+        }
+        .p12{
+           
+        
+        font-family: 'SF Pro Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 29px;
+        text-align: center;
+        color: #FFFFFF;
+        }
+        .ang{
+
+        /* color/3 */
+        background: #A89060;
+        /* неактивные карточки */
+        box-shadow: 0px 2px 18px rgba(41, 41, 41, 0.1);
+        border-radius: 10px;
+        }
+        .p13{
+            
+        font-family: 'SF Pro Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        }   
+        .gle{
+        /* color/3 */
+        background: #A89060;
+        /* неактивные карточки */
+        box-shadow: 0px 2px 18px rgba(41, 41, 41, 0.1);
+        border-radius: 10px;
+        }
+.p14{
+    font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+text-transform: uppercase;
+
+/* text/white */
+
+color: #FFFFFF;
+}
+
+.cta{
+background: #FFFFFF;
+/* неактивные карточки */
+box-shadow: 0px 2px 18px rgba(41, 41, 41, 0.1);
+border-radius: 10px;
+}
+.tton{
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    
+    font-size: 16px;
+    line-height: 0px;
+    margin-left: 10%;
+color: #000000;
+border: 1px solid #4A607A;
+}
+.ass{
+    font-family: 'SF Pro Display';
+    font-style: normal;
+   
+    font-size: 16px;
+    line-height: 30px;
+    margin-right: 25px ;
+    margin-left: 5px ;
+    text-transform: uppercase;
+    color: #000000;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-top: 10px;
+}
+
+
+.suk{
+background: #FFFFFF;
+/* неактивные карточки */
+box-shadow: 0px 2px 18px rgba(41, 41, 41, 0.1);
+border-radius: 10px;
+}
+.ebl{
+background: #FFFFFF;
+/* неактивные карточки */
+box-shadow: 0px 2px 18px rgba(41, 41, 41, 0.1);
+border-radius: 10px;
+}
+.ttn{
+    margin-left: 5%;
+    box-sizing: border-box;
+    width: 165px;
+    height: 59px;
+/* Auto layout */
+align-items: center;
+display: flex;
+flex-direction: row;
+justify-content: center;
+position: absolute;
+font-family: 'SF Pro Display';
+/* color/body */
+background: #FFFFFF;
+/* color/2 */
+border: 1px solid #4A607A;
+/* norm */
+box-shadow: 0px 2px 18px rgba(41, 41, 41, 0.1);
+border-radius: 6px;
+}
+.p15{
+    font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+text-transform: uppercase;
+
+color: #000000;
+}
+.ban{margin-left: 45%;}
+.bn{margin-left: 42.5%;}
+.bh{margin-left: 35%;}
+.ot{margin-left: 5%;}
+.kn{margin-left: 40%; margin-top: 10%; }
+.p16{
+    font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #DC0000;
+}
+.p17{
+    font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+text-transform: uppercase;
+color: #DC0000;
+}
+.p100{
+    font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 57px;
+
+color: #000000;
+}
+.dion{ 
+    background: #FFFFFF;
+    box-shadow: 2px 2px 5px rgba(20, 29, 61, 0.15), -2px -2px 5px rgba(20, 29, 61, 0.15);
+    border-radius: 10px;
+    }
+.foo{
+    background: #4A607A;
+}
+.dw{
+ font-style: #FFFFFF;
+}
+.p77{
+    font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #9C9C9C;
+}
+.kak{
+    width: 266px;
+height: 55px;
+    box-sizing: border-box;
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background: #FFFFFF;
+/* color/rain */
+
+border: 1px solid #4A607A;
+box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+border-radius: 10px; 
+}
+.p88{
+    font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+/* color/body */
+
+color: #FFFFFF;
+}
+.p55{
+    font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+
+/* text/white */
+
+color: #FFFFFF;
+}
+.p66{
+   
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+/* text/grey */
+
+color: #9C9C9C;
+}
+hr{
+width: 1300px;
+height: 0px;
+
+border: 1px solid #9C9C9C;
+}
